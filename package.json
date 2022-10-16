@@ -1,0 +1,23 @@
+{
+  "name": "desyner-dev",
+  "version": "0.1.9",
+  "description": "Lightweight Node.js cakephp web framework",
+  "main": "index.js",
+  "author": "Fendi Jatmiko",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FendiJatmiko/desygner-dev.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "nodemailer": "^4.7.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.8",
+    "sequelize": "^6.3.4",
+    "sqlite3": "^5.0.0",
+    "twig": "^1.15.0"
+  }
+}
